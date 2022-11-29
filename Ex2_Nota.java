@@ -5,10 +5,6 @@ Mostreuma mensagem, caso o valor seja inválido/*
 
 public class Ex2_Nota {
 
-
-/**
- * @param args
- */
 public static void main(String[] args) {
      Scanner scan = new Scanner(System.in);
 

@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/*Faça um programa que peça uma nota, entre zero e dez. 
+Mostreuma mensagem, caso o valor seja inválido/*
+
 public class Ex2_Nota {
 
 
